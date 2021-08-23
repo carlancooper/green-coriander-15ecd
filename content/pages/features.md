@@ -30,6 +30,28 @@ sections:
           gyroscope; picture-in-picture" allowfullscreen></iframe>
         media_position: left
         media_width: fifty
+      - title: lorem-ipsum
+        subtitle: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        actions: []
+        image_alt: lorem-ipsum
+        video_embed_html: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        media_position: top
+        media_width: fifty
+        align: left
+        type: feature
       - title: Investors
         subtitle: 'Donec nisl ligula, cursus id molestie vel. '
         content: >-
