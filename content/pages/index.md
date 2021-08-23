@@ -4,9 +4,8 @@ sections:
   - type: hero_section
     title: Carla Cooper is Contentful's CFo
     subtitle: I do many things in my job and in my life
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |
+      Click below to explore
     actions:
       - label: Try Free
         url: /pricing
