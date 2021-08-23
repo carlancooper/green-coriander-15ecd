@@ -16,6 +16,7 @@ sections:
         image_alt: Top view of business meeting
         media_position: right
         media_width: fifty
+        image: /images/IMG_5821.jpeg
       - title: 1x1's
         subtitle: It's very important to talk with the team
         content: >-
