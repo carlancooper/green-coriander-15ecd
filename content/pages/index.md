@@ -7,7 +7,7 @@ sections:
     content: |
       Click below to explore
     actions:
-      - label: Try Free
+      - label: Work Life
         url: /pricing
         style: primary
       - label: Learn More
