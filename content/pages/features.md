@@ -7,7 +7,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Meetings
+      - title: Learning More
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
