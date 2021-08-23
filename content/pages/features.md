@@ -18,7 +18,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: 1x1's
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: It's very important to talk with the team
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
