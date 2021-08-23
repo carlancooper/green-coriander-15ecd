@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Carla Cooper is Contentful's CFo
-    subtitle: Optional hero section subtitle
+    subtitle: I do many things in my job
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
