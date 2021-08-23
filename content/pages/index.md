@@ -10,7 +10,7 @@ sections:
       - label: Work Life
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Home Life
         url: /features
         style: secondary
     image: images/classic/hero.png
