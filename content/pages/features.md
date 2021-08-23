@@ -52,6 +52,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: /images/IMG_5820.jpg
       - title: Investors
         subtitle: 'Donec nisl ligula, cursus id molestie vel. '
         content: >-
